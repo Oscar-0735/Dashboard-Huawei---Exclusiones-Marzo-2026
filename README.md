@@ -1,2 +1,0 @@
-Dashboard de exclusiones Huawei
-.
